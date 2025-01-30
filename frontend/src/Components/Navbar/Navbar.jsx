@@ -11,7 +11,7 @@ const Navbar = () => {
     <div className="navbar">
       <div className="nav-logo">
         <img src={logo} alt="" />
-        <p>SHOPIFY</p>
+        <p>SHOPSPHERE</p>
       </div>
       {/* code to set the hr line beneath the tabs on clicking */}
 
